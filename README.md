@@ -62,7 +62,8 @@
 **3. Earthquake Prediction & Magnitude Estimation**
 - Built machine learning models using real-world USGS seismic data.
 - Achieved 89.28% classification accuracy using Random Forest.
-- [View Project](https://github.com/Ridhi-Singh-Gaur/Prediction-of-Earthquake-and-it-s-magnitude-using-Machine-Learning)
+- [View Project](https://github.com/Ridhi-Singh-Gaur/earthquake_2k25)
+- [Live Demo](https://earthquake-2k25.vercel.app/)
 
 **4. Depression Predictor**
 - Developed an ML-based prediction model using behavioral survey data.
