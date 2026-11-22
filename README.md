@@ -24,9 +24,9 @@
 
 **Programming Languages:** Java, Python, SQL
 
-**Web Development:** HTML, CSS, JavaScript, React.js, Node.js
+**Web Development:** HTML, CSS, JavaScript, React.js
 
-**AI & Generative AI:** Machine Learning, Deep Learning, Generative AI, Large Language Models (LLMs), Scikit-learn, TensorFlow
+**AI & Generative AI:** Machine Learning,  Generative AI, Large Language Models (LLMs), Scikit-learn
 
 **Core CS:** Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks
 
